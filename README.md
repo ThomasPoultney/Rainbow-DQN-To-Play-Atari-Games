@@ -1,12 +1,11 @@
 # Reinforcement Learning Project
-
 # Members:
-- Andre
-- Warren
-- Oguz
-- Lawrence
-- Tom
-- Sam
+- Andre Lim
+- Warren Yip
+- Oguz Tecirlioglu
+- Lawrence Wong
+- Tom Poultney
+- Sam Higgs
 
 # Instructions For Usage:
 
